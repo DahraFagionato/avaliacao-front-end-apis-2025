@@ -24,11 +24,11 @@ O objetivo deste desafio é avaliar suas habilidades em desenvolvimento de pági
 
 ### 4. Funcionalidade de Busca
 
-![alt text](pesquisa.png)
+<img width="1910" height="902" alt="pesquisa" src="https://github.com/user-attachments/assets/180b4c77-e6a5-41d8-8d5d-788f81f4d1e8" />
 
 ### 5. Responsividade UX
 
-![alt text](responsividade.png)
+<img width="327" height="642" alt="responsividade" src="https://github.com/user-attachments/assets/fc48a4cc-da4c-4652-a27d-d5ba3d07fad2" />
 
 ## Estrutura do Projeto
 
