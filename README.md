@@ -1,4 +1,3 @@
-
 # Desafio Front-end - Nível Jr
 
 ## Objetivo
@@ -11,7 +10,7 @@ O objetivo deste desafio é avaliar suas habilidades em desenvolvimento de pági
 
 ![alt text](TELALOGIN.png)
 
-##### Usuário ou senha incorretos:
+#### Usuário ou senha incorretos:
 
 ![alt text](usuarioOuSenhaIncorreta.png)
 
@@ -25,11 +24,13 @@ O objetivo deste desafio é avaliar suas habilidades em desenvolvimento de pági
 
 ### 4. Funcionalidade de Busca
 
-![alt text](BARRAPESQUISA.png)
+![alt text](pesquisa.png)
+
+### 5. Responsividade UX
+
+![alt text](responsividade.png)
 
 ## Estrutura do Projeto
-
-- Organize o código-fonte em uma estrutura clara e coesa. Sugerimos a seguinte estrutura:
 
 ```
 /index.html
